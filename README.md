@@ -19,7 +19,7 @@ The boundary is mandatory, not advisory.
 
 # IntuiShell — Authorship Anchor Repository
 
-This repository intentionally contains **no functional source code**.
+This repository intentionally contains **no functional source code**
 
 It exists solely to establish dated authorship, research direction, and capability scope of a governed execution environment developed independently by the author.
 The underlying system is a authority enforcement boundary that enforces authority, constraint validation, and verification prior to system-level actions.
