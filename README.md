@@ -1,5 +1,5 @@
 # intuishell-proof-anchor
-Authorship and capability anchor for a governed execution environment research system. Contains non-operational materials only.
+Authorship and capability anchor for a governed execution environment system. Contains non-operational materials only.
 # IntuiShell — Authorship Anchor Repository
 
 This repository intentionally contains **no functional source code**.
