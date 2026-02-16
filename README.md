@@ -1,4 +1,10 @@
 # intuishell-proof-anchor
+This is a minimal behavioral proof of a pre-execution authority boundary.
+
+The demonstration shows a system refusing a requested action until explicit authority exists, and performing the exact same action deterministically once authority is granted.
+
+No implementation logic is exposed, only observable behavior and transcript.
+
 Authorship and capability anchor for a governed execution environment system. Contains non-operational materials only.
 # IntuiShell — Authorship Anchor Repository
 
