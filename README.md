@@ -2,7 +2,6 @@
 This is a minimal behavioral proof of a pre-execution authority boundary.
 
 The demonstration shows a system refusing a requested action until explicit authority exists, and performing the exact same action deterministically once authority is granted.
-
 No implementation logic is exposed, only observable behavior and transcript.
 
 ## Execution Model (Behavioral Flow)
@@ -23,7 +22,6 @@ The boundary is mandatory, not advisory.
 This repository intentionally contains **no functional source code**.
 
 It exists solely to establish dated authorship, research direction, and capability scope of a governed execution environment developed independently by the author.
-
 The underlying system is a authority enforcement boundary that enforces authority, constraint validation, and verification prior to system-level actions.
 Operational implementation details, and execution mechanisms are intentionally withheld.
 
@@ -39,7 +37,6 @@ This repository serves four functions:
 ## Important Notice
 
 Nothing in this repository is sufficient to reproduce the system.
-
 This repository intentionally exposes only a verification surface, not the operational system.
 
 ## Disclosure Policy
