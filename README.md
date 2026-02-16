@@ -49,5 +49,4 @@ are available only through direct technical evaluation under executed NDA.
 
 Contact: cloutsystems.contact@gmail.com 
 ---
-Author: Leon Simpson
-All rights reserved.
+© Leon Simpson — All rights reserved
