@@ -40,7 +40,6 @@ This repository serves four functions:
 
 ## Important Notice
 
-Nothing in this repository is sufficient to reproduce the system.
 This repository intentionally exposes only a verification surface, not the operational system.
 
 ## Evaluation Access
