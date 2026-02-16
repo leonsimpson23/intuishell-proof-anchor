@@ -6,7 +6,7 @@ This repository intentionally contains **no functional source code**.
 
 It exists solely to establish dated authorship, research direction, and capability scope of a governed execution environment developed independently by the author.
 
-The underlying system is a execution-governance layer that enforces authority, constraint validation, and verification prior to system-level actions.
+The underlying system is a authority enforcement boundary that enforces authority, constraint validation, and verification prior to system-level actions.
 Operational implementation details, and execution mechanisms are intentionally withheld.
 
 ## Purpose of this repository
@@ -21,7 +21,8 @@ This repository serves four functions:
 ## Important Notice
 
 Nothing in this repository is sufficient to reproduce the system.
-Any appearance of completeness is deliberate abstraction.
+
+This repository intentionally exposes only a verification surface, not the operational system.
 
 ## Disclosure Policy
 
