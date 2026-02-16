@@ -43,9 +43,14 @@ This repository serves four functions:
 Nothing in this repository is sufficient to reproduce the system.
 This repository intentionally exposes only a verification surface, not the operational system.
 
-## Disclosure Policy
+## Evaluation Access
 
-Full technical materials are only available under mutually executed confidentiality agreement.
+The materials in this repository represent only a verification surface.
+
+Full system behavior, implementation structure, and operational capability
+are available only through direct technical evaluation under executed NDA.
+
+Contact: cloutsystems.contact@gmail.com 
 ---
 Author: Leon Simpson
 All rights reserved.
