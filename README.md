@@ -4,15 +4,19 @@ This is a minimal behavioral proof of a pre-execution authority boundary.
 The demonstration shows a system refusing a requested action until explicit authority exists, and performing the exact same action deterministically once authority is granted.
 No implementation logic is exposed, only observable behavior and transcript.
 
-## Execution Model (Behavioral Flow)
+### Execution Model (Behavioral Flow)
 
-The system separates decision generation from execution authority.
-
-Decision source (AI / script / user)
-        ↓
-Authority enforcement boundary
-        ↓
-System execution surfaces
+```
+Decision Source
+(AI / Script / User)
+        │
+        ▼
+Authority Enforcement Boundary
+        │
+        ▼
+Execution Surfaces
+(OS / Filesystem / External Effects)
+```
 
 No action reaches execution without passing the authority boundary.
 The boundary is mandatory, not advisory.
