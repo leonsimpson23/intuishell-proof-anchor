@@ -45,8 +45,6 @@ This repository intentionally exposes only a verification surface, not the opera
 
 ## Evaluation Access
 
-The materials in this repository represent only a verification surface.
-
 Full system behavior, implementation structure, and operational capability
 are available only through direct technical evaluation under executed NDA.
 
