@@ -5,7 +5,7 @@ The demonstration shows a system refusing a requested action until explicit auth
 
 No implementation logic is exposed, only observable behavior and transcript.
 
-Authorship and capability anchor for a governed execution environment system. Contains non-operational materials only.
+
 # IntuiShell — Authorship Anchor Repository
 
 This repository intentionally contains **no functional source code**.
