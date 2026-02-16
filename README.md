@@ -45,8 +45,6 @@ This repository intentionally exposes only a verification surface, not the opera
 ## Disclosure Policy
 
 Full technical materials are only available under mutually executed confidentiality agreement.
-
 ---
-
 Author: Leon Simpson
 All rights reserved.
