@@ -5,6 +5,18 @@ The demonstration shows a system refusing a requested action until explicit auth
 
 No implementation logic is exposed, only observable behavior and transcript.
 
+## Execution Model (Behavioral Flow)
+
+The system separates decision generation from execution authority.
+
+Decision source (AI / script / user)
+        ↓
+Authority enforcement boundary
+        ↓
+System execution surfaces
+
+No action reaches execution without passing the authority boundary.
+The boundary is mandatory, not advisory.
 
 # IntuiShell — Authorship Anchor Repository
 
